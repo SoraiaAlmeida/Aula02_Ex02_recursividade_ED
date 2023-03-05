@@ -10,7 +10,7 @@ public class Controller {
 		
 		if (n == 0) {
 			return "";
-			// A condiÁ„o de parada vai ser quando o 
+			// A condi√ß√£o de parada vai ser quando o n = 0
 			
 	}
 		else {
@@ -18,7 +18,7 @@ public class Controller {
 			n = n / 2;
 			
 			return converterBinario(n) + resto;
-			//Caso tenha resto, ele vai armazenar o valor da divis„o e concatenar os valores referente a ultima divis„o.
+			//Caso tenha resto, ele vai armazenar o valor da divis√£o e concatenar os valores referente a ultima divis√£o.
 		}
 			
 		}
